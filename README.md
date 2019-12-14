@@ -1,5 +1,5 @@
 # Authentication using JSON Web Tokens (JWTs)
-
+By B Rimes
 ## Topics
 
 - Authentication.
